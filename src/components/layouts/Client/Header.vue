@@ -23,7 +23,7 @@
     </div>
     <div class="flex gap-4 px-10 lg:hidden mt-8">
       <input type="text"
-        class="items-center w-full p-2 lg:p-3 drop-shadow placeholder:text-[14px] text-base font-semibold tracking-wider text-black bg-white rounded-lg focus:outline-none"
+        class="items-center w-full p-2 lg:p-3 drop-shadow placeholder:text-[12px] text-base font-semibold tracking-wider text-black bg-white rounded-lg focus:outline-none"
         placeholder="Tìm kiếm nông sản theo mã ..." />
       <button
         class="font-bold text-[14px] lg:text-lg bg-[#13313D] text-white px-3 lg:px-4 lg:py-2 rounded-lg whitespace-nowrap">
