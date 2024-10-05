@@ -22,8 +22,7 @@ import Header from "../../components/layouts/Client/Header.vue";
                     Hệ thống truy xuất nguồn gốc nông sản cung cấp thông tin minh
                     bạch về nguồn gốc và quy trình sản xuất của các sản phẩm nông nghiệp. Bằng cách sử dụng công nghệ
                     blockchain, người tiêu dùng có thể dễ dàng xác minh nguồn gốc sản phẩm, từ đó đảm bảo an toàn
-                    thực phẩm và nâng cao niềm tin. Hệ thống không chỉ hỗ trợ người tiêu dùng mà còn giúp nông dân xây
-                    dựng thương hiệu và gia tăng giá trị sản phẩm.</p>
+                    thực phẩm và nâng cao niềm tin.</p>
             </div>
             <div class="w-full lg:w-1/2 relative">
                 <img src="../../assets/img/b3.png" alt=""
